@@ -32,11 +32,14 @@ python app.py
 
 Upload text, PDFs, or PPTs, or use the speech-to-text feature to generate summaries instantly.
 
+
 ## PPT for this application 
-https://1drv.ms/p/c/d7d15b3d485642e3/EXelcRcxyRlDlYg8Ie2XgiwBtPA79QXUiTly9VLPIF4Fyw?e=x1Sa7R
+https://1drv.ms/p/c/d7d15b3d485642e3/EXelcRcxyRlDlYg8Ie2XgiwBtPA79QXUiTly9VLPIF4Fyw?e=x1Sa7R.
+
 
 ## Contributing
 We welcome contributions! Feel free to fork the repository and submit pull requests.
+
 
 ## License
 This project is licensed under the MIT License.
