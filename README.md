@@ -49,8 +49,8 @@ This project is licensed under the MIT License.
 Developed with ❤️ by Texer Team
 **Contributors**:
 - **Ojaswi Makode**
-- **Shravani Jaya**
-- **Derutuja Avhad**
+- **Shravani Jayade**
+- **Rutuja Avhad**
 - **Gauri Deshmukh**
 - **Disha Patil**
 
